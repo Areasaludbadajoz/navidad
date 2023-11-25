@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #3498db; /* Puedes cambiar el color según tus preferencias */
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#banner img {
+    max-width: 100%; /* Para que el logo se ajuste al contenedor */
+    height: auto;
+}
+
+main {
+    /* Aquí puedes agregar estilos para el calendario de Adviento */
+}
+
+footer {
+    /* Estilos para el pie de página si es necesario */
+}
